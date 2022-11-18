@@ -1,0 +1,13 @@
+npm init --yes (abrir o node)
+
+npm install cypress (Global)
+npm install -D cypress (para desenvolvimento )
+
+
+cypress open (abrir no terminal)
+1 - cria a estrutura de  pasta padrao
+2 - abre o cypress
+3 - CTRL + C (fecha o terminal)
+
+npx cypress open(utilizado para abrir no terminal)
+npx cypress run (abre o terminal no modo redless, executa o teste no terminal)
